@@ -7,7 +7,7 @@
  */
 class Test
 {
-    public function __construct(){
-        echo 'Fuy---test----';
+    public function test(){
+        return '11122';
     }
 }
