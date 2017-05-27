@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
-        "psr-4": {"fuc\\": "src/fuc"}
+        "psr-0": {"fuc\\": "src/fuc"}
     }
 
 }
