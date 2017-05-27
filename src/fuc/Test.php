@@ -5,6 +5,8 @@
  *
  * @package \\${NAMESPACE}
  */
+namespace fuc;
+
 class Test
 {
     public function test(){
